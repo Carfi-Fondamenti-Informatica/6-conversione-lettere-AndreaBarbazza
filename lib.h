@@ -1,1 +1,12 @@
+//
+// Created by barba on 30/11/2021.
+//
+
+#ifndef ESERCITAZIONE_6_CONVERSIONE_LETTERE_2_LIB_H
+#define ESERCITAZIONE_6_CONVERSIONE_LETTERE_2_LIB_H
+
+bool conversione_caratteri(char&);
+
+
+#endif //ESERCITAZIONE_6_CONVERSIONE_LETTERE_2_LIB_H
 
